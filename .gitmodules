@@ -1,0 +1,18 @@
+[submodule "fuel"]
+	path = fuel
+	url = https://github.com/k12u/fuel.git
+[submodule "cakephp"]
+	path = cakephp
+	url = https://github.com/k12u/cakephp.git
+[submodule "framework"]
+	path = framework
+	url = https://github.com/k12u/framework.git
+[submodule "laravel"]
+	path = laravel
+	url = https://github.com/k12u/laravel.git
+[submodule "CodeIgniter"]
+	path = CodeIgniter
+	url = https://github.com/k12u/CodeIgniter.git
+[submodule "symfony"]
+	path = symfony
+	url = https://github.com/symfony/symfony.git
